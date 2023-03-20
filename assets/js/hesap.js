@@ -230,10 +230,6 @@ function degergoster() {
     currency: "TRY",
   }).format((deger * 5) / 100 + (((deger * 5) / 100) * 18) / 100);
 
-  //   var uyari1000m = document.getElementById("1000mUyari");
-  // var isbitirmeuyari = document.getElementById("isbitirmeuyari");
-  // var insaatsinifiuyari = document.getElementById("insaatsinifiuyari");
-
   if (insAlani < 1000) {
     hesapTablosu.style.display = "none";
     uyari1000m.style.display = "";
