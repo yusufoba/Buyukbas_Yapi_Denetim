@@ -231,9 +231,15 @@ function degergoster() {
   }).format((deger * 5) / 100 + (((deger * 5) / 100) * 18) / 100);
 
   if (insAlani < 1000) {
-    hesapTablosu.style.display = "none";
+    hesapTablosu.style.display = "";
     uyari1000m.style.display = "";
     tabloyukapatbtn.style.display = "";
+    hesapTablosu.rows[1].style.display = "none";
+    hesapTablosu.rows[2].style.display = "none";
+    hesapTablosu.rows[3].style.display = "none";
+    hesapTablosu.rows[4].style.display = "none";
+    hesapTablosu.rows[5].style.display = "none";
+    hesapTablosu.rows[6].style.display = "none";
   } else if (insaatSinifi2 == null) {
     hesapTablosu.style.display = "none";
     insaatsinifiuyari.style.display = "";
@@ -250,6 +256,12 @@ function degergoster() {
     isbitirmeuyari.style.display = "none";
     insaatsinifiuyari.style.display = "none";
     tabloyukapatbtn.style.display = "";
+    hesapTablosu.rows[1].style.display = "";
+    hesapTablosu.rows[2].style.display = "";
+    hesapTablosu.rows[3].style.display = "";
+    hesapTablosu.rows[4].style.display = "";
+    hesapTablosu.rows[5].style.display = "";
+    hesapTablosu.rows[6].style.display = "";
   }
 }
 
