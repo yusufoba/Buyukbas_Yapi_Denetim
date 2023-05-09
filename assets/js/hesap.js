@@ -65,47 +65,47 @@ function degergoster() {
       insaatSinifi2 = null;
       break;
     case "1":
-      insaatSinifi2 = 118;
+      insaatSinifi2 = 2395;
 
       break;
     case "2":
-      insaatSinifi2 = 180;
+      insaatSinifi2 = 2395;
       break;
     case "3":
-      insaatSinifi2 = 290;
+      insaatSinifi2 = 2395;
       break;
     case "4":
-      insaatSinifi2 = 390;
+      insaatSinifi2 = 2395;
       break;
     case "5":
-      insaatSinifi2 = 460;
+      insaatSinifi2 = 2395;
       break;
     case "6":
-      insaatSinifi2 = 630;
+      insaatSinifi2 = 5813;
       break;
     case "7":
-      insaatSinifi2 = 750;
+      insaatSinifi2 = 5813;
       break;
     case "8":
-      insaatSinifi2 = 800;
+      insaatSinifi2 = 11522;
       break;
     case "9":
-      insaatSinifi2 = 920;
+      insaatSinifi2 = 11522;
       break;
     case "10":
-      insaatSinifi2 = 1030;
+      insaatSinifi2 = 11522;
       break;
     case "11":
-      insaatSinifi2 = 1320;
+      insaatSinifi2 = 11522;
       break;
     case "12":
-      insaatSinifi2 = 1610;
+      insaatSinifi2 = 11522;
       break;
     case "13":
-      insaatSinifi2 = 1835;
+      insaatSinifi2 = 11522;
       break;
     case "14":
-      insaatSinifi2 = 2150;
+      insaatSinifi2 = 11522;
       break;
   }
 
